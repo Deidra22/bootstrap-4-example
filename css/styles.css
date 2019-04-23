@@ -1,0 +1,9 @@
+.box{
+    height: 150px;
+    border: thin solid black;
+    background-color: #eee;
+}
+
+.box-2{
+    border: thin solid blue;
+}
